@@ -6,4 +6,4 @@ This repository contains a Python implementation of image encryption and decrypt
 
 - Efficient AES implementation for image processing.
 - Supports various image formats (e.g., JPEG, PNG).
-- Clear and well-structured code for easy understanding.
+- Clear and well-structured code for easy understan
